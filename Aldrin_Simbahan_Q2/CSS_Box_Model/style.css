@@ -1,0 +1,23 @@
+.one{
+    border: 5px solid;
+    border-radius: 50px;
+    background:whea ;
+    text-align: center;
+    padding: 10px 20px 30px;
+    width: 400px;
+    height: 100px;
+    font-family: monospace;
+}
+
+
+
+.two{
+    border: 5px solid yellow;
+    border-radius: 30px;
+    background:#00f0ff ;
+    text-align: center;
+    padding: 10px 20px 30px;
+    width: 400px;
+    height: 100px;
+    font-family: serif;
+}

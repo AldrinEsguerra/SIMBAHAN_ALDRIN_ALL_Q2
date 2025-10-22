@@ -1,0 +1,38 @@
+.body{
+    justify-content: center;
+    display: flex;
+
+}
+
+
+.fox{
+     border: 5px solid red;
+    border-radius: 10px;
+    /* border-style: dotted; */
+    background:white ;
+    text-align: center;
+    padding: 10px 20px 30px;
+    width: 400px;
+    height: 600px;
+    font-family: monospace;
+}
+
+.image{
+    border: 10px solid rgb(165, 150, 19);
+    background:white ;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+
+.paragraph{
+      border: 5px solid rgb(148, 148, 23);
+      border-style: dotted;
+    background:yellow ;
+    text-align: center;
+    font-family: serif;
+    overflow: scroll;
+    justify-content: center;
+
+}
+

@@ -1,0 +1,35 @@
+a:link{
+    color:rgb(15, 15, 77);
+    text-decoration: none;
+}
+
+
+a:visited{
+    color:green;
+}
+
+
+a:hover{
+    color: purple;
+    text-decoration: underline;
+}
+
+a:active{
+    color:black;
+}
+
+a.button1{
+    color:inline-block;
+    background-color:rgb(35, 7, 133);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+a.button1:hover{
+    background-color: orange;
+    color: rgb(126, 11, 11);
+    text-decoration: none;
+}
+

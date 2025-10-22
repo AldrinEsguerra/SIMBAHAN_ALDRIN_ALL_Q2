@@ -1,0 +1,32 @@
+
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    background-color: rgb(44, 240, 240);
+    padding: 5px;
+    gap:5px;
+    border: 5px  black;}
+
+    .container > div {
+    background-color: rgb(27, 128, 129);
+    border: 1px solid black;
+    padding: 30px;
+    font-size: 35px;
+    text-align: center;
+    }
+
+    .container1{
+        display: flex;
+        text-align: center;
+        font-family:  Arial, Helvetica, sans-serif;
+        background-color: rgb(46, 226, 226);
+        font-size: 80px;
+        justify-content: space-around;
+    }
+
+
+    .grid-items:hover{
+        background-color: rgb(6, 187, 6);
+        text-decoration: none;
+    }
